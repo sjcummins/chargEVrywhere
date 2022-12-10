@@ -24,6 +24,6 @@
 
 [Jason Obrycki](https://github.com/obryckij)
 
-[Varindra Persad Marahaj](https://github.com/varindra868)
+[Varindra Persad Maharaj](https://github.com/varindra868)
 
 [Tyler Schneider](https://github.com/schneity)
