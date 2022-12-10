@@ -12,11 +12,18 @@
 [agile_page]: https://trello.com/invite/b/AhpblVKX/ATTI47d6c1fc351509d0cdf77e2536a6e29dBBE2739C/chargeevrywhere-board
 
 
-Contributors:
+## Contributors:
+
 [Samuel Cummins](https://github.com/sjcummins)
+
 [Jacob Klionsky](https://github.com/Jklionsky)
+
 [Allison Kwang](https://github.com/akkwang)
+
 [Branden Mayday](https://github.com/BrandenMayday)
+
 [Jason Obrycki](https://github.com/obryckij)
+
 [Varindra Persad Marahaj](https://github.com/varindra868)
+
 [Tyler Schneider](https://github.com/schneity)
