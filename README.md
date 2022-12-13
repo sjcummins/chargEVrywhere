@@ -1,4 +1,4 @@
-# UM EECS441§3&4 F22 chargEVrywhere
+# UM EECS441 F22 chargEVrywhere
 
 | Video  |  Wiki |  Trello  |
 |:-----:|:-----:|:--------:|
